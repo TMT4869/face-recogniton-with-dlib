@@ -8,15 +8,16 @@ Encoding faces
 ```bash
 python encode_faces.py --dataset dataset --encodings encodings.pickle
 ```
-recognition in image
+Recognition in image
 ```bash
 python recognize_faces_image.py --encodings encodings.pickle --image examples/example_01.png
 ```
-recognition in webcam
+Recognition in webcam
+A value of 1 displays and a value of 0 will not display the output frames to our screen.
 ```bash
 python recognize_faces_webcam.py --encodings encodings.pickle --output output/jurassic_park_trailer_output.avi --display 1
 ```
-recognition in video
+Recognition in video
 ```bash
 python recognize_faces_video.py --encodings encodings.pickle --input videos/lunch_scene.mp4 --output output/lunch_scene_output.avi --display 1
 ```
