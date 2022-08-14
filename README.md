@@ -1,9 +1,10 @@
 # How to use project
 First, create the following folders:
 1. videos/
-2. output/
-You can add video for face recognition to videos/
-Example how to run this project
+2. output/__
+Link video and output: https://drive.google.com/drive/folders/1aeVRMFLcSeHqiCU3bR_rbnjO4c0NDplE?usp=sharing
+You can add video for face recognition to videos/__
+Example how to run this project__
 Encoding faces
 ```bash
 python encode_faces.py --dataset dataset --encodings encodings.pickle
