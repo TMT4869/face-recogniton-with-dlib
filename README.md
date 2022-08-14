@@ -14,7 +14,7 @@ Recognition in image
 ```bash
 python recognize_faces_image.py --encodings encodings.pickle --image examples/example_01.png
 ```
-Recognition in webcam
+Recognition in webcam <br />
 A value of 1 displays and a value of 0 will not display the output frames to our screen.
 ```bash
 python recognize_faces_webcam.py --encodings encodings.pickle --output output/jurassic_park_trailer_output.avi --display 1
