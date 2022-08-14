@@ -1,7 +1,8 @@
 # How to use project
 First, create the following folders:
 1. videos/
-2. output/\
+2. output/ <br />
+
 Link video and output: https://drive.google.com/drive/folders/1aeVRMFLcSeHqiCU3bR_rbnjO4c0NDplE?usp=sharing <br />
 You can add video for face recognition to videos/ <br />
 Example how to run this project <br />
