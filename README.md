@@ -4,8 +4,8 @@ First, create the following folders:
 2. output/ <br />
 
 Link video and output: https://drive.google.com/drive/folders/1aeVRMFLcSeHqiCU3bR_rbnjO4c0NDplE?usp=sharing <br />
-You can add video for face recognition to videos/ <br />
-Example how to run this project <br />
+You can add video for face recognition to videos/ <br /> <br />
+Example how to run this project: <br />
 Encoding faces
 ```bash
 python encode_faces.py --dataset dataset --encodings encodings.pickle
