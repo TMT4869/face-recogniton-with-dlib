@@ -1,4 +1,5 @@
 # How to use project
+Library used in project: dlib, face_recognition, imutils, requests <br /> <br />
 First, create the following folders:
 1. videos/
 2. output/ <br />
